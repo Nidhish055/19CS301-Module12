@@ -15,23 +15,26 @@ To write a Python program to add 4 elements to a queue and print the elements pr
 ## Program
 
 ```python
+# Name: Nidhish B
+# Reg.No: 212223050032
+
 queue = []
 
-# Enqueue elements into the queue
 queue.append('a')
 queue.append('b')
 queue.append('c')
 queue.append('d')
 
-# Display the initial queue
-print('Initial Queue:', queue)
+print('Initial Queue: ' + str(queue))
 
-# Print front and rear elements
-print("\nElement at the front of the queue is", queue[0])
-print("\nElement at the rear of the queue is", queue[-1])
+front=queue[0]
 
+print("\nElement at the front of the queue is .... ",front)
+
+rear=queue[3]
+
+print("\nElement at the rear of the queue is .... ",rear)
 
 ## OUTPUT
-
-
+   
 ## RESULT
