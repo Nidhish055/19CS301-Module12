@@ -36,5 +36,7 @@ rear=queue[3]
 print("\nElement at the rear of the queue is .... ",rear)
 
 ## OUTPUT
-   
+
 ## RESULT
+
+Thus,the given program is implemented and executed successfully.
