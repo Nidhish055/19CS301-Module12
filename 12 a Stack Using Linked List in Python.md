@@ -5,43 +5,45 @@ This project demonstrates a basic stack implementation in Python using list meth
 
 ## AIM
 
-To write a Python program to type and display the elements pushed into a stack using a linked list approach.
+To Type and display all the elements inserted and also display after deleting one element. 
 
 ## ALGORITHM
 
 1. Start  
 2. Create a stack  
-3. Append (push) elements to the stack  
-4. Print (display) the elements of the stack  
-5. Stop
+3. Append (push) elements to the stack
+4. Delete the last element inserted using pop()
+5. Print the elements of the stack  
+6. Stop
 
 ## PROGRAM
 
 ```python
+
+# Name: Nidhish B
+# Reg.No: 212223050032
+
 stack = []
 
-# Push elements into the stack
 stack.append('a')
 stack.append('b')
 stack.append('c')
 
-# Display the stack
 print("Stack after elements are pushed:")
 print(stack)
 
-# Peek the top element
-print("Top element (Peek):", stack[-1])
+print("Deleting the last element inserted:")
+print(stack.pop())
 
-# Pop the top element
-popped_element = stack.pop()
-print("Popped element:", popped_element)
-
-# Display the stack after pop
-print("Stack after pop:")
+print("Stack after elements are popped:")
 print(stack)
 ```
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/6a406671-183b-4ad7-ae4a-f959df7d3718)
+
 ## RESULT
+
+Thus,the given program is implemented and executed successfully.
 
 
