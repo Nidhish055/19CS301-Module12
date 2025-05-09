@@ -41,8 +41,7 @@ print(queue)
 
 ## OUTPUT
 
-!(https://github.com/user-attachments/assets/37c5cfa9-6a53-4fe4-963f-eef687dd9102)
-
+![Screenshot 2025-05-07 232507](https://github.com/user-attachments/assets/fd07a6a4-cdd9-4ddf-8dd8-ac923b402ec9)
 
 ## RESULT
 
