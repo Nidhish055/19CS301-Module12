@@ -37,6 +37,8 @@ print("\nElement at the rear of the queue is .... ",rear)
 
 ## OUTPUT
 
+![Screenshot 2025-05-07 232507](https://github.com/user-attachments/assets/c6292021-4802-4b10-bc19-da8dfac6b28c)
+
 ## RESULT
 
 Thus,the given program is implemented and executed successfully.
