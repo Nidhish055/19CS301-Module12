@@ -41,5 +41,9 @@ print(queue)
 
 ## OUTPUT
 
+![WhatsApp Image 2025-05-07 at 23 42 27_ac5326c4](https://github.com/user-attachments/assets/37c5cfa9-6a53-4fe4-963f-eef687dd9102)
+
 
 ## RESULT
+
+Thus,the program is successfully executed.
